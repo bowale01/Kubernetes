@@ -45,16 +45,16 @@ Example:
 
   1  Create a baseline and canary Deployment:
 
-        ![image](https://github.com/bowale01/Kubernetes/assets/37187773/8eb3a4b2-76c6-499c-9899-443b94dd9965)
+      ![image](https://github.com/bowale01/Kubernetes/assets/37187773/8eb3a4b2-76c6-499c-9899-443b94dd9965)
 
   2  Use a Service to split traffic:
 
-       ![image](https://github.com/bowale01/Kubernetes/assets/37187773/76590b53-9311-479b-afae-6c8f2dd097c0)
+      ![image](https://github.com/bowale01/Kubernetes/assets/37187773/76590b53-9311-479b-afae-6c8f2dd097c0)
 
   3    Configure traffic splitting with Istio:
 
 
-        ![image](https://github.com/bowale01/Kubernetes/assets/37187773/c0486fc6-7360-481f-83a2-2544ed6b4b95)
+       ![image](https://github.com/bowale01/Kubernetes/assets/37187773/c0486fc6-7360-481f-83a2-2544ed6b4b95)
 
   
        
