@@ -77,8 +77,9 @@ Use the Recreate strategy in a Deployment.
 Example:
 
 
-![image](https://github.com/bowale01/Kubernetes/assets/37187773/f0a6df9f-cf37-435b-9097-634a6036f5ba)
-![image](https://github.com/bowale01/Kubernetes/assets/37187773/f0a6df9f-cf37-435b-9097-634a6036f5ba)
+![image](https://github.com/bowale01/Kubernetes/assets/37187773/1e14b8ff-bb47-482b-8776-d64ad645ee59)
+
+
 
 
 Flagger: A progressive delivery tool that automates the promotion of canary deployments using a service mesh.
