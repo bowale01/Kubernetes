@@ -7,4 +7,5 @@ https://github.com/bregman-arie/devops-exercises/blob/master/topics/kubernetes/R
 
 ![image](https://github.com/bowale01/Kubernetes/assets/37187773/1b3dac71-1a04-4751-938c-69c55b205585)
 
-source :- https://kubernetes.io/docs/concepts/architecture/
+source :- https://kubernetes.io/docs/concepts/architecture/    
+          https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#autoscale
