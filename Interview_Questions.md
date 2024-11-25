@@ -1,4 +1,4 @@
-**Basic EKS Interview Questions
+## Basic EKS Interview Questions
 
 What is Amazon EKS, and why is it used?
 
@@ -24,7 +24,8 @@ What are the different deployment options for EKS nodes?
 
 EKS nodes can be deployed on EC2 instances (self-managed or in managed node groups) or on AWS Fargate, which is a serverless compute option that allows Kubernetes pods to run without managing the underlying instances.
 
-Intermediate EKS Interview Questions
+## Intermediate EKS Interview Questions
+
 How do you configure networking in an EKS cluster?
 
 EKS networking can be configured using VPC CNI plugin for Kubernetes, which allows Kubernetes pods to have IP addresses in your VPC. You also configure security groups, NACLs, and subnet configurations for networking security and accessibility.
@@ -45,7 +46,8 @@ Describe the process of setting up a new EKS cluster.
 
 Setting up a new EKS cluster involves creating the cluster via the AWS Console, CLI, or SDK, configuring VPC and subnet requirements, adding worker nodes (managed node groups or self-managed EC2 instances), and setting up IAM roles and permissions for Kubernetes and user access.
 
-Advanced EKS Interview Questions
+## Advanced EKS Interview Questions
+
 What are pod security policies, and how do they work in EKS?
 
 Pod Security Policies (PSPs) are Kubernetes policies that define the security configurations a pod must adhere to in order to be accepted by the Kubernetes cluster. In EKS, PSPs can be enabled to control security-sensitive configurations such as privilege levels, host network access, and volume types.
