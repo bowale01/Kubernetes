@@ -46,4 +46,4 @@ EKS integrates with Elastic Load Balancing to distribute incoming traffic to the
 Auto Scaling:
 EKS supports cluster auto scaling, which dynamically adjusts the number of worker nodes based on resource demands. You can define scaling policies and thresholds to ensure optimal utilization and availability of resources.
 
-These are the key components and services that make up the EKS architecture. With EKS, you can focus on deploying and managing your applications while leveraging the scalability, availability, and automation provided by the AWS infrastructure and Kubernetes ecosystem.![image](https://github.com/user-attachments/assets/61126b96-b117-41c9-bfa2-46d0422b971a)
+These are the key components and services that make up the EKS architecture. With EKS, you can focus on deploying and managing your applications while leveraging the scalability, availability, and automation provided by the AWS infrastructure and Kubernetes ecosystem
